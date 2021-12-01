@@ -1,4 +1,4 @@
 int a, b
 read a, b
-sum = a + b
-print sum
+multiply = a * b
+print multiply
